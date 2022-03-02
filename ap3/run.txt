@@ -1,0 +1,9 @@
+gcc 2111100045_lista.c -o ap3
+ap3 < in_out\entrada1.in > in_out\1.out
+ap3 < in_out\entrada2.in > in_out\2.out
+ap3 < in_out\entrada3.in > in_out\3.out
+ap3 < in_out\entrada4.in > in_out\4.out
+ap3 < in_out\entrada5.in > in_out\5.out
+ap3 < in_out\entrada6.in > in_out\6.out
+
+

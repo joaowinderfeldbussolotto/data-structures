@@ -1,0 +1,9 @@
+gcc ap4.c -o ap4
+ap4 < 4_in_out\entrada01.in > 4_in_out\myout1.out
+ap4 < 4_in_out\entrada02.in > 4_in_out\myout2.out
+ap4 < 4_in_out\entrada03.in > 4_in_out\myout3.out
+ap4 < 4_in_out\entrada04.in > 4_in_out\myout4.out
+ap4 < 4_in_out\entrada05.in > 4_in_out\myout5.out
+ap4 < 4_in_out\entrada06.in > 4_in_out\myout6.out
+
+
