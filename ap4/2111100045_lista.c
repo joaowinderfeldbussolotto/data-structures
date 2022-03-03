@@ -185,7 +185,7 @@ void countElements(student *first)
     printf("%d\n", count);
 }
 
-listController init_list(listController list)
+listController init_list()
 {
     listController list;
     list.first = NULL;
@@ -195,7 +195,7 @@ listController init_list(listController list)
 
 int main()
 {
-    listController list = init_list(list);
+    listController list = init_list();
 
     int op;
 
