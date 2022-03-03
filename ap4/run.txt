@@ -1,4 +1,4 @@
-gcc ap4.c -o ap4
+gcc 2111100045_lista.c -o ap4
 ap4 < 4_in_out\entrada01.in > 4_in_out\myout1.out
 ap4 < 4_in_out\entrada02.in > 4_in_out\myout2.out
 ap4 < 4_in_out\entrada03.in > 4_in_out\myout3.out

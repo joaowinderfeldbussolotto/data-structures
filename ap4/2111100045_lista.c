@@ -175,8 +175,7 @@ void printStudentsReverse(listController list)
 
 void countElements(student *first)
 {
-    
-    
+   
     student *aux;
     int count = 0;
     for (aux = first; aux != NULL; aux = aux->next)
@@ -186,7 +185,7 @@ void countElements(student *first)
     printf("%d\n", count);
 }
 
-listController init_list()
+listController init_list(listController list)
 {
     listController list;
     list.first = NULL;
