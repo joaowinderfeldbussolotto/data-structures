@@ -1,0 +1,7 @@
+gcc 2111100045_stack.c -o ap5
+ap5 < in_out\entrada01.in > in_out\myout1.out
+ap5 < in_out\entrada02.in > in_out\myout2.out
+ap5 < in_out\entrada03.in > in_out\myout3.out
+ap5 < in_out\entrada04.in > in_out\myout4.out
+ap5 < in_out\entrada05.in > in_out\myout5.out
+
