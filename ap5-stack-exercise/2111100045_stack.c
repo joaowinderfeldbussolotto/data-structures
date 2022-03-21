@@ -106,7 +106,7 @@ int main(){
     Stack urls = init_stack();
     int flag = 1;
     while(1){
-        char url[30];
+        char url[100];
         scanf(" %s", url);
 
         if(!strcmp(url, "B")){
