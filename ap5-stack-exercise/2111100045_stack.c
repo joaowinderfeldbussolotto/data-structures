@@ -93,7 +93,6 @@ Stack menu(Stack urls){
 
         urls = push(urls, url);
 
-        //printStack(urls);
     }
     
     return urls;
